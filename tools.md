@@ -958,11 +958,12 @@ layout: "post"
 </script>
 
 ## 身份信息生成
+<center>
 	<input type="button" value="RGPerson" onclick="genPersonInfo();">
 	<br>
 	<div id="personInfo">
-		
 	</div>
+</center>
 <script>
 	var areaList = {
   "110101": "北京市东城区",
