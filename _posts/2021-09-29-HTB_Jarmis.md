@@ -14,7 +14,7 @@ layout: "post"
 
 ## Recon
 
-常规RECON略过不提，22，80端口，ubuntu 20.04， 访问80端口提示需要HOST头，修改HOSTS文件加上，再次访问，一个简易的网站： 
+常规RECON略过不提，22，80端口，ubuntu 20.04， 访问80端口提示需要HOST头，修改HOSTS文件加上，再次访问，一个简易的网站：
 ![img](/assets/posts/jarmis/1.jpg)  
 告诉我们这个网站是用来查找Jarm Hash的，我之前从来没听说过这玩意，放狗找了下大概是用hash来构造一个TLS服务的数据库，快速鉴别恶意服务。  
 对几个用户输入点一顿FUZZ，啥结果没有。  
