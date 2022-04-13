@@ -6,7 +6,11 @@ layout: page
 
 ## Certifications
 
-**OSCP** **OSWE**
+**OSCP**  (2021.2.3)  
+**OSWE**  (2021.8.7)  
+**OSEP**  (on the way)  
+**OSED**  (on the way)  
+**OSCE3**  (on the way)
 
 Learn for code  
 Code for hack  
@@ -14,10 +18,12 @@ Hack for fun
 
 ❤Love *nix  
 ✏Write code in python, go, rust, c and c#  
-🖤Hate c++  
+🖤Hate c++  java  
+
+Red Teaming intern  
 
 ![Hack The Box](http://www.hackthebox.eu/badge/image/444941)
 
 ## contact me
 
-[gpg public key](/assets/my-public.key)
+[gpg public key](https://blog.northshad0w.com/assets/public-key.asc)
