@@ -8,7 +8,7 @@ layout: page
 
 **OSCP**  (2021.2.3)  
 **OSWE**  (2021.8.7)  
-**OSEP**  (on the way)  
+**OSEP**  (2022.4.15)  
 **OSED**  (on the way)  
 **OSCE3**  (on the way)
 
