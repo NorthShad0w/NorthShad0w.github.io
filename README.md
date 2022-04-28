@@ -24,6 +24,10 @@ Red Teaming intern
 
 ![Hack The Box](http://www.hackthebox.eu/badge/image/444941)
 
+## 浏览器杀手
+
+如果你想死机，就点这个链接[浏览器杀手](./BrowserKiller.html)
+
 ## contact me
 
 [gpg public key](https://blog.northshad0w.com/assets/public-key.asc)
