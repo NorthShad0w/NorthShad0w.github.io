@@ -12,9 +12,7 @@ layout: page
 **OSED**  (on the way)  
 **OSCE3**  (on the way)
 
-
-I started learning infosec in January 2021.  
-我的安全之旅始于2021年一月  
+I started learning infosec in January 2021.   
 
 Learn for code  
 Code for hack  
@@ -23,6 +21,10 @@ Hack for fun
 ❤Love *nix  
 ✏Write code in python, go, rust, c and c#  
 🖤Hate c++  java  
+
+I'm not a security researcher.  
+But an exploit developer.  
+OS / WEB / IoT / AD  
 
 Red Teaming intern/红队实习  
 偶像：[沈沉舟](http://scz.617.cn:8/)  
