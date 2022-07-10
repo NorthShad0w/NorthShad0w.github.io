@@ -6,29 +6,16 @@ layout: page
 
 ## Certifications
 
-**OSCP**  (2021.2.3)  
-**OSWE**  (2021.8.7)  
-**OSEP**  (2022.4.15)  
-**OSED**  (on the way)  
-**OSCE3**  (on the way)
+<a href="https://www.credential.net/a153640a-85d9-4b83-a90c-312d4ff50e4d" target="_blank"><img src="https://s2.loli.net/2022/07/11/w2KkxdDOvNCViZa.png" width="80" height="80"></a> <a href="https://www.credential.net/009e1459-ee1c-4474-9039-967f3b58ae4a" target="_blank"><img src="https://s2.loli.net/2022/07/11/GxDSvJ6ZUFhHgbT.png" width="80" height="80"></a> <a href="https://www.credential.net/a355537a-1848-4bd2-a918-b45f3ec17548" target="_blank"><img src="https://s2.loli.net/2022/07/11/pxaFJRefUBDsZbK.png" width="80" height="80"></a>
 
-I started learning infosec in January 2021.   
+- `*nix`  
+- `golang` `rust` `c`
+- OOP是什么玩意啊？  
+讨厌 `c++` `java` 不过写了很多`c#`    
+- 想学 haskell  
+从2022年6月开始想，目前还没有行动  
 
-Learn for code  
-Code for hack  
-Hack for fun  
-
-❤Love *nix  
-✏Write code in python, go, rust, c and c#  
-🖤Hate c++  java  
-
-I'm not a security researcher.  
-But an exploit developer.  
-OS / WEB / IoT / AD  
-
-Red Teaming intern/红队实习  
-偶像：[沈沉舟](http://scz.617.cn:8/)  
-梦想有一天能和世界上最顶级的黑客做正面对抗。  
+不是攻击队,别溯了
 
 ![Hack The Box](http://www.hackthebox.eu/badge/image/444941)
 
