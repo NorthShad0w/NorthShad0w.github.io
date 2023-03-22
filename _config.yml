@@ -32,7 +32,7 @@ external:                    # see http://fontawesome.com/icons
   - {title: Github, icon: github, url: "https://github.com/NorthShad0w"}
 #  - {title: Twitter, icon: twitter, url: "https://twitter.com/itm4n"}
 #  - {title: LinkedIn, icon: linkedin, url: "https://linkedin.com/in/clementlabro"}
-  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+#  - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
 #  disqus_shortname: ""      # see https://disqus.com/
