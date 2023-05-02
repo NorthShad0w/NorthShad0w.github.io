@@ -14,7 +14,8 @@ oscp   oswe   osep   osed   osce3
 - `*nix`  
 - `golang` `rust` `c`
 - OOP是什么玩意啊？  
-讨厌 `c++` `java` 不过写了很多`c#`    
+~~讨厌 `c++` `java` 不过写了很多`c#`~~   
+I LOVE `c++`.
 - 想学 haskell  
 ~~从2022年6月开始想，目前还没有行动~~  
 2022年11月开始学了  
