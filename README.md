@@ -30,6 +30,4 @@ Functional programming enthusiast
 如果你想死机，就点这个链接[浏览器杀手](./BrowserKiller.html)  
 chrome or ios
 
-## contact me
 
-[gpg public key](https://blog.northshad0w.com/assets/public-key.asc)
